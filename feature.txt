@@ -1,1 +1,2 @@
-Conflicted is a feature file.
+This is a feature file.
+No more confilicts.
